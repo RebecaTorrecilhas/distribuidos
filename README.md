@@ -1,1 +1,1 @@
-# distribuidos
+# projeto_distribuidos
